@@ -1,0 +1,819 @@
+{
+    "pagination": {
+        "object_count": 8,
+        "page_number": 1,
+        "page_size": 50,
+        "page_count": 1,
+        "has_more_items": false
+    },
+    "events": [
+        {
+            "name": {
+                "text": "Amapiano Spring Fest  - The Clash of South & West African Culture",
+                "html": "Amapiano Spring Fest  - The Clash of South &amp; West African Culture"
+            },
+            "description": {
+                "text": "The Ultimate Amapiano & Afrobeats Rooftop Day Party Fest Ft 3 Top DJs, Dance Performances, Popup Shop with Retail Vendors & Red Carpet",
+                "html": "The Ultimate Amapiano &amp; Afrobeats Rooftop Day Party Fest Ft 3 Top DJs, Dance Performances, Popup Shop with Retail Vendors &amp; Red Carpet"
+            },
+            "url": "https://www.eventbrite.com/e/amapiano-spring-fest-the-clash-of-south-west-african-culture-tickets-827148562617",
+            "vanity_url": "https://DMVAmapianoSpringFest2024.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-20T16:00:00",
+                "utc": "2024-04-20T20:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-20T23:00:00",
+                "utc": "2024-04-21T03:00:00Z"
+            },
+            "organization_id": "206732766879",
+            "created": "2024-02-07T14:17:00Z",
+            "changed": "2024-03-28T11:47:35Z",
+            "published": "2024-02-07T15:55:20Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "The Ultimate Amapiano & Afrobeats Rooftop Day Party Fest Ft 3 Top DJs, Dance Performances, Popup Shop with Retail Vendors & Red Carpet",
+            "facebook_event_id": null,
+            "logo_id": "709801799",
+            "organizer_id": "13247645899",
+            "venue_id": "196950259",
+            "category_id": "113",
+            "subcategory_id": "13007",
+            "format_id": "5",
+            "id": "827148562617",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/827148562617/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1500,
+                    "height": 750
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F709801799%2F1454123667913%2F1%2Foriginal.20240302-122207?auto=format%2Ccompress&q=75&sharp=10&s=a7bc3c8ce934105a65c1c1a307ede24f",
+                    "width": 1500,
+                    "height": 750
+                },
+                "id": "709801799",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F709801799%2F1454123667913%2F1%2Foriginal.20240302-122207?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1500%2C750&s=44be9e6e62eba191b78307a1b6a7d254",
+                "aspect_ratio": "2",
+                "edge_color": "#65114c",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "25.00",
+                    "value": 2500,
+                    "display": "25.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "100.00",
+                    "value": 10000,
+                    "display": "100.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2023-12-25T00:00:00",
+                    "utc": "2023-12-25T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Event Crafters Accelerator (Level 1)-Event Production Mastery Crash Course",
+                "html": "Event Crafters Accelerator (Level 1)-Event Production Mastery Crash Course"
+            },
+            "description": {
+                "text": "Unleash Your Event Production Mastery with Afropolitan Cities' Premier Crash Course",
+                "html": "Unleash Your Event Production Mastery with Afropolitan Cities' Premier Crash Course"
+            },
+            "url": "https://www.eventbrite.com/e/event-crafters-accelerator-level-1-event-production-mastery-crash-course-tickets-827898455567",
+            "vanity_url": "https://EventCrafters.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-11T12:00:00",
+                "utc": "2024-05-11T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-11T14:00:00",
+                "utc": "2024-05-11T18:00:00Z"
+            },
+            "organization_id": "206732766879",
+            "created": "2024-02-08T01:51:26Z",
+            "changed": "2024-02-21T02:28:19Z",
+            "published": "2024-02-08T03:17:05Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": true,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Unleash Your Event Production Mastery with Afropolitan Cities' Premier Crash Course",
+            "facebook_event_id": null,
+            "logo_id": "692627879",
+            "organizer_id": "13247645899",
+            "venue_id": null,
+            "category_id": "101",
+            "subcategory_id": "1999",
+            "format_id": "9",
+            "id": "827898455567",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/827898455567/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 1,
+                        "y": 279
+                    },
+                    "width": 2120,
+                    "height": 1060
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F692627879%2F206732766879%2F1%2Foriginal.20240208-025851?auto=format%2Ccompress&q=75&sharp=10&s=a34cef288adcaa89c4051ef0364a3d29",
+                    "width": 2121,
+                    "height": 1414
+                },
+                "id": "692627879",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F692627879%2F206732766879%2F1%2Foriginal.20240208-025851?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C279%2C2120%2C1060&s=97b5a49780f932b3c0717c202dd5fec8",
+                "aspect_ratio": "2",
+                "edge_color": "#d8d2ce",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "150.00",
+                    "value": 15000,
+                    "display": "150.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "225.00",
+                    "value": 22500,
+                    "display": "225.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-02-07T00:00:00",
+                    "utc": "2024-02-07T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "NYC Amapiano Spring Fest - The Clash Of South & West African Cultures",
+                "html": "NYC Amapiano Spring Fest - The Clash Of South &amp; West African Cultures"
+            },
+            "description": {
+                "text": "The Ultimate Amapiano & Afrobeats Day Party Fest Ft 3 Top DJs, Dance Performances, Popup Shop with Retail Vendors & Red Carpet",
+                "html": "The Ultimate Amapiano &amp; Afrobeats Day Party Fest Ft 3 Top DJs, Dance Performances, Popup Shop with Retail Vendors &amp; Red Carpet"
+            },
+            "url": "https://www.eventbrite.com/e/nyc-amapiano-spring-fest-the-clash-of-south-west-african-cultures-tickets-808151371507",
+            "vanity_url": "https://AmapianoSpringFestNYC2024.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-25T16:00:00",
+                "utc": "2024-05-25T20:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-25T22:00:00",
+                "utc": "2024-05-26T02:00:00Z"
+            },
+            "organization_id": "206732766879",
+            "created": "2024-01-23T18:11:13Z",
+            "changed": "2024-03-28T01:32:11Z",
+            "published": "2024-02-07T09:41:57Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "The Ultimate Amapiano & Afrobeats Day Party Fest Ft 3 Top DJs, Dance Performances, Popup Shop with Retail Vendors & Red Carpet",
+            "facebook_event_id": null,
+            "logo_id": "730160839",
+            "organizer_id": "13247645899",
+            "venue_id": "85146689",
+            "category_id": "113",
+            "subcategory_id": "13007",
+            "format_id": "5",
+            "id": "808151371507",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/808151371507/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": null,
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F730160839%2F206732766879%2F1%2Foriginal.20240328-005736?auto=format%2Ccompress&q=75&sharp=10&s=07d5d99607be787d209c5bf8806f8dd8",
+                    "width": 1500,
+                    "height": 555
+                },
+                "id": "730160839",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F730160839%2F206732766879%2F1%2Foriginal.20240328-005736?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=69911b56fd99fc71f0008ece461740ef",
+                "aspect_ratio": "2.710843373493975903614457831",
+                "edge_color": "#a84d0c",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "28.52",
+                    "value": 2852,
+                    "display": "28.52 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "108.55",
+                    "value": 10855,
+                    "display": "108.55 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-01-01T00:00:00",
+                    "utc": "2024-01-01T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "2024 DC Afrobeats Block Party  & Jollof Cook-off",
+                "html": "2024 DC Afrobeats Block Party  &amp; Jollof Cook-off"
+            },
+            "description": {
+                "text": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc",
+                "html": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc"
+            },
+            "url": "https://www.eventbrite.com/e/2024-dc-afrobeats-block-party-jollof-cook-off-tickets-825331828717",
+            "vanity_url": "https://DCAfrobeatsBlockParty2024.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-07-13T16:00:00",
+                "utc": "2024-07-13T20:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-07-13T23:00:00",
+                "utc": "2024-07-14T03:00:00Z"
+            },
+            "organization_id": "206732766879",
+            "created": "2024-02-06T15:58:56Z",
+            "changed": "2024-03-28T16:26:27Z",
+            "published": "2024-02-14T03:30:31Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "copy_and_migrate",
+            "is_free": false,
+            "version": null,
+            "summary": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc",
+            "facebook_event_id": null,
+            "logo_id": "696766189",
+            "organizer_id": "13247645899",
+            "venue_id": "196673459",
+            "category_id": "113",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "825331828717",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/825331828717/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 48
+                    },
+                    "width": 2000,
+                    "height": 1000
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696766189%2F1454123667913%2F1%2Foriginal.20240214-042704?auto=format%2Ccompress&q=75&sharp=10&s=aa08dcd289d2dac71861e8a668e2967b",
+                    "width": 2000,
+                    "height": 2000
+                },
+                "id": "696766189",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696766189%2F1454123667913%2F1%2Foriginal.20240214-042704?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C48%2C2000%2C1000&s=65f57528bc291567590ba967e904078d",
+                "aspect_ratio": "2",
+                "edge_color": "#dbc0a0",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "25.00",
+                    "value": 2500,
+                    "display": "25.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "400.00",
+                    "value": 40000,
+                    "display": "400.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2022-07-11T20:00:00",
+                    "utc": "2022-07-12T00:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "2024 LA Afrobeats Block Party  & Jollof Cook-off",
+                "html": "2024 LA Afrobeats Block Party  &amp; Jollof Cook-off"
+            },
+            "description": {
+                "text": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc",
+                "html": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc"
+            },
+            "url": "https://www.eventbrite.com/e/2024-la-afrobeats-block-party-jollof-cook-off-tickets-724334864077",
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2024-08-03T15:00:00",
+                "utc": "2024-08-03T22:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2024-08-03T22:00:00",
+                "utc": "2024-08-04T05:00:00Z"
+            },
+            "organization_id": "206732766879",
+            "created": "2023-09-23T03:40:31Z",
+            "changed": "2024-03-27T16:18:37Z",
+            "published": "2023-10-23T16:01:32Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "copy_and_migrate",
+            "is_free": false,
+            "version": null,
+            "summary": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc",
+            "facebook_event_id": null,
+            "logo_id": "626199179",
+            "organizer_id": "13247645899",
+            "venue_id": "175533149",
+            "category_id": "113",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "724334864077",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/724334864077/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 74
+                    },
+                    "width": 1500,
+                    "height": 750
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F626199179%2F288312335246%2F1%2Foriginal.20231023-034659?auto=format%2Ccompress&q=75&sharp=10&s=fca1125369e5cb370f2f086ca1c3b2ef",
+                    "width": 1500,
+                    "height": 1500
+                },
+                "id": "626199179",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F626199179%2F288312335246%2F1%2Foriginal.20231023-034659?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C74%2C1500%2C750&s=15d6596e7286875a130e4fbacf1f6669",
+                "aspect_ratio": "2",
+                "edge_color": "#d4bc9b",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "30.00",
+                    "value": 3000,
+                    "display": "30.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "300.00",
+                    "value": 30000,
+                    "display": "300.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/Los_Angeles",
+                    "local": "2023-10-23T09:40:00",
+                    "utc": "2023-10-23T16:40:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "2024 NYC Afrobeats Block Party  & Jollof Cook-off",
+                "html": "2024 NYC Afrobeats Block Party  &amp; Jollof Cook-off"
+            },
+            "description": {
+                "text": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc",
+                "html": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc"
+            },
+            "url": "https://www.eventbrite.com/e/2024-nyc-afrobeats-block-party-jollof-cook-off-tickets-839830675157",
+            "vanity_url": "https://NYCAfrobeatsBlockParty2024.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-09-14T16:00:00",
+                "utc": "2024-09-14T20:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-09-14T22:00:00",
+                "utc": "2024-09-15T02:00:00Z"
+            },
+            "organization_id": "206732766879",
+            "created": "2024-02-15T03:03:09Z",
+            "changed": "2024-02-16T13:06:39Z",
+            "published": "2024-02-15T03:55:18Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "copy_and_migrate",
+            "is_free": false,
+            "version": null,
+            "summary": "Jollof Cook-Off | Popup Shop with Retail Vendors | Food Vendors | Day Party with 5 Top DJs | Art | Comedian MCs | etc",
+            "facebook_event_id": null,
+            "logo_id": "698605489",
+            "organizer_id": "13247645899",
+            "venue_id": "198219469",
+            "category_id": "113",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "839830675157",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/839830675157/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 40,
+                        "y": 0
+                    },
+                    "width": 1480,
+                    "height": 740
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F698605489%2F1454123667913%2F1%2Foriginal.20240216-130613?auto=format%2Ccompress&q=75&sharp=10&s=6b1c5cba08ebb557f572974c63cc6366",
+                    "width": 2000,
+                    "height": 740
+                },
+                "id": "698605489",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F698605489%2F1454123667913%2F1%2Foriginal.20240216-130613?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=40%2C0%2C1480%2C740&s=105556606b52c48074d8143b88e063b0",
+                "aspect_ratio": "2",
+                "edge_color": "#c7ccc9",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "28.52",
+                    "value": 2852,
+                    "display": "28.52 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "428.67",
+                    "value": 42867,
+                    "display": "428.67 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2022-09-12T20:00:00",
+                    "utc": "2022-09-13T00:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "T.I.A. Ghana Tour (The dream Afropolitan group trip to Ghana)",
+                "html": "T.I.A. Ghana Tour (The dream Afropolitan group trip to Ghana)"
+            },
+            "description": {
+                "text": "Get ready for 7 days pure bliss and adventure in Ghana - Experience the best of Ghana on this curated group trip",
+                "html": "Get ready for 7 days pure bliss and adventure in Ghana - Experience the best of Ghana on this curated group trip"
+            },
+            "url": "https://www.eventbrite.com/e/tia-ghana-tour-the-dream-afropolitan-group-trip-to-ghana-tickets-826744915297",
+            "vanity_url": "https://TIAGhana1024.eventbrite.com",
+            "start": {
+                "timezone": "Africa/Accra",
+                "local": "2024-10-15T08:00:00",
+                "utc": "2024-10-15T08:00:00Z"
+            },
+            "end": {
+                "timezone": "Africa/Accra",
+                "local": "2024-10-22T23:00:00",
+                "utc": "2024-10-22T23:00:00Z"
+            },
+            "organization_id": "206732766879",
+            "created": "2024-02-07T07:31:57Z",
+            "changed": "2024-03-22T18:29:27Z",
+            "published": "2024-02-07T07:45:40Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Get ready for 7 days pure bliss and adventure in Ghana - Experience the best of Ghana on this curated group trip",
+            "facebook_event_id": null,
+            "logo_id": "726168179",
+            "organizer_id": "13247645899",
+            "venue_id": "196826249",
+            "category_id": "109",
+            "subcategory_id": null,
+            "format_id": "16",
+            "id": "826744915297",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/826744915297/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 129
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F726168179%2F206732766879%2F1%2Foriginal.20240322-182829?auto=format%2Ccompress&q=75&sharp=10&s=e675816c1039bf0ddc1ac152b44c8eb7",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "726168179",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F726168179%2F206732766879%2F1%2Foriginal.20240322-182829?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C129%2C1080%2C540&s=50b211343a49987208e9d373e3f885c7",
+                "aspect_ratio": "2",
+                "edge_color": "#c4a4a0",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "3043.00",
+                    "value": 304300,
+                    "display": "3043.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "Africa/Accra",
+                    "local": "2024-02-07T02:00:00",
+                    "utc": "2024-02-07T02:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Afro-Luxe GH -The Ultimate Eve of Eve Party Experience In Accra Ghana",
+                "html": "Afro-Luxe GH -The Ultimate Eve of Eve Party Experience In Accra Ghana"
+            },
+            "description": {
+                "text": "Experience the Pinnacle of Afro-International Glamour: An Exquisite NYE VIP Soirée in Accra, Ghana -  ********Age Limit: 21 years & Over",
+                "html": "Experience the Pinnacle of Afro-International Glamour: An Exquisite NYE VIP Soirée in Accra, Ghana -  ********Age Limit: 21 years &amp; Over"
+            },
+            "url": "https://www.eventbrite.com/e/afro-luxe-gh-the-ultimate-eve-of-eve-party-experience-in-accra-ghana-tickets-864299722737",
+            "vanity_url": "https://AfroluxeGH.eventbrite.com",
+            "start": {
+                "timezone": "Africa/Accra",
+                "local": "2024-12-28T21:00:00",
+                "utc": "2024-12-28T21:00:00Z"
+            },
+            "end": {
+                "timezone": "Africa/Accra",
+                "local": "2024-12-29T03:00:00",
+                "utc": "2024-12-29T03:00:00Z"
+            },
+            "organization_id": "206732766879",
+            "created": "2024-03-16T01:33:39Z",
+            "changed": "2024-03-22T19:09:58Z",
+            "published": "2024-03-17T02:23:04Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Experience the Pinnacle of Afro-International Glamour: An Exquisite NYE VIP Soirée in Accra, Ghana -  ********Age Limit: 21 years & Over",
+            "facebook_event_id": null,
+            "logo_id": "726200479",
+            "organizer_id": "13247645899",
+            "venue_id": "203587819",
+            "category_id": "113",
+            "subcategory_id": "13999",
+            "format_id": "11",
+            "id": "864299722737",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/864299722737/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 1263
+                    },
+                    "width": 2880,
+                    "height": 1440
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F726200479%2F206732766879%2F1%2Foriginal.20240322-190531?auto=format%2Ccompress&q=75&sharp=10&s=435ce4abbba063ecb00382b98ca48033",
+                    "width": 2880,
+                    "height": 3600
+                },
+                "id": "726200479",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F726200479%2F206732766879%2F1%2Foriginal.20240322-190531?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1263%2C2880%2C1440&s=d49da1822cf2a916fcb7ce44f1eb35ac",
+                "aspect_ratio": "2",
+                "edge_color": "#39312b",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "33.85",
+                    "value": 3385,
+                    "display": "33.85 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "908.85",
+                    "value": 90885,
+                    "display": "908.85 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "Africa/Accra",
+                    "local": "2024-01-02T00:00:00",
+                    "utc": "2024-01-02T00:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        }
+    ]
+}

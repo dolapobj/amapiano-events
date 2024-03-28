@@ -1,0 +1,42 @@
+different amapiano event organnizers / afrobeat/carribean
+
+https://www.eventbrite.com/platform/api#/reference/event/list/list-events-by-organization
+
+Acoustik Garden Lounge - 53713267
+Bar 13
+Blue Midtown
+Lot45
+The DL | Best Rooftop Lounge NYC
+Doux
+Kiss Entertainment - Best Nightclub & DJs - Queens NY
+SOB’s
+Polygon BK
+Kiss Entertainment
+Harbor NYC Rooftop
+
+
+41848091
+53713267
+53713267
+68643099
+204368659
+organization_id
+: 
+"6169046141"
+organizer_id
+: 
+"17919316271"
+
+venue_id
+: 
+"195104169"
+
+//plan to extract venue IDs,
+then call APIs using venues to grab e vents in the next week 
+then display the events!
+
+//TODO 
+- clean up UI 
+- update description
+- display events as card 
+ - deploy the entire application 

@@ -1,0 +1,1186 @@
+{
+    "pagination": {
+        "object_count": 12,
+        "page_number": 1,
+        "page_size": 50,
+        "page_count": 1,
+        "has_more_items": false
+    },
+    "events": [
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855858427",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-03-28T17:00:00",
+                "utc": "2024-03-28T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-03-28T21:00:00",
+                "utc": "2024-03-29T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:31Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495079497855",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855858427",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855858427/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Party The Friday Night Vibe @Bar13   March 29",
+                "html": "Party The Friday Night Vibe @Bar13   March 29"
+            },
+            "description": {
+                "text": "Hit Up Bar13 this Friday for epic vibes! #FridayFrenzy  March 29",
+                "html": "Hit Up Bar13 this Friday for epic vibes! #FridayFrenzy  March 29"
+            },
+            "url": "https://www.eventbrite.com/e/party-the-friday-night-vibe-bar13-march-29-tickets-865549631247",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-03-29T21:00:00",
+                "utc": "2024-03-30T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-03-30T04:00:00",
+                "utc": "2024-03-30T08:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-03-18T15:07:31Z",
+            "changed": "2024-03-28T02:10:04Z",
+            "published": "2024-03-25T11:00:15Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": false,
+            "version": null,
+            "summary": "Hit Up Bar13 this Friday for epic vibes! #FridayFrenzy  March 29",
+            "facebook_event_id": null,
+            "logo_id": "722176379",
+            "organizer_id": "7843288369",
+            "venue_id": "203998039",
+            "category_id": "103",
+            "subcategory_id": "3001",
+            "format_id": "11",
+            "id": "865549631247",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/865549631247/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F722176379%2F132446780686%2F1%2Foriginal.20240318-150753?auto=format%2Ccompress&q=75&sharp=10&s=7603dd91f9b87c18dbbe2201c95466ae",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "722176379",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F722176379%2F132446780686%2F1%2Foriginal.20240318-150753?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=15027896203c418e4864ae62b35900e6",
+                "aspect_ratio": "2",
+                "edge_color": "#270707",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "44.52",
+                    "value": 4452,
+                    "display": "44.52 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-03-25T07:00:00",
+                    "utc": "2024-03-25T11:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "House Music  Amapiano  Afrobeat Night @Bar 13 Sat. March 30",
+                "html": "House Music  Amapiano  Afrobeat Night @Bar 13 Sat. March 30"
+            },
+            "description": {
+                "text": "House Music Amapiano Afrobeat Night @Bar 13 Sat. March 30",
+                "html": "House Music Amapiano Afrobeat Night @Bar 13 Sat. March 30"
+            },
+            "url": "https://www.eventbrite.com/e/house-music-amapiano-afrobeat-night-bar-13-sat-march-30-tickets-865721736017",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-03-30T21:00:00",
+                "utc": "2024-03-31T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-03-31T04:00:00",
+                "utc": "2024-03-31T08:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-03-18T18:58:42Z",
+            "changed": "2024-03-25T11:00:17Z",
+            "published": "2024-03-25T11:00:17Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "House Music Amapiano Afrobeat Night @Bar 13 Sat. March 30",
+            "facebook_event_id": null,
+            "logo_id": "722426209",
+            "organizer_id": "7843288369",
+            "venue_id": "204057019",
+            "category_id": "103",
+            "subcategory_id": "3008",
+            "format_id": "11",
+            "id": "865721736017",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/865721736017/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": null,
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F722426209%2F132446780686%2F1%2Foriginal.20240318-185905?auto=format%2Ccompress&q=75&sharp=10&s=b583d586958aa3a9dcba79e22bef8838",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "722426209",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F722426209%2F132446780686%2F1%2Foriginal.20240318-185905?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=be89928a0b582d5ad0fd57c4a7f05014",
+                "aspect_ratio": "2",
+                "edge_color": "#a279d8",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "44.52",
+                    "value": 4452,
+                    "display": "44.52 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-03-25T07:00:00",
+                    "utc": "2024-03-25T11:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855868457",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-04T17:00:00",
+                "utc": "2024-04-04T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-04T21:00:00",
+                "utc": "2024-04-05T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:33Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495082831188",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855868457",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855868457/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855878487",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-11T17:00:00",
+                "utc": "2024-04-11T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-11T21:00:00",
+                "utc": "2024-04-12T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:32Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495076164522",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855878487",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855878487/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855888517",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-18T17:00:00",
+                "utc": "2024-04-18T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-18T21:00:00",
+                "utc": "2024-04-19T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:31Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495072831189",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855888517",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855888517/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855898547",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-25T17:00:00",
+                "utc": "2024-04-25T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-25T21:00:00",
+                "utc": "2024-04-26T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:32Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495069497856",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855898547",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855898547/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855908577",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-02T17:00:00",
+                "utc": "2024-05-02T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-02T21:00:00",
+                "utc": "2024-05-03T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:33Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495066164523",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855908577",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855908577/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855918607",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-09T17:00:00",
+                "utc": "2024-05-09T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-09T21:00:00",
+                "utc": "2024-05-10T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:31Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495062831190",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855918607",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855918607/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855928637",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-16T17:00:00",
+                "utc": "2024-05-16T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-16T21:00:00",
+                "utc": "2024-05-17T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:33Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495059497857",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855928637",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855928637/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855938667",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-23T17:00:00",
+                "utc": "2024-05-23T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-23T21:00:00",
+                "utc": "2024-05-24T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:30Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495056164524",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855938667",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855938667/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet",
+                "html": "Free Afterwork  Thursday Party @Bar 13 w/Free Buffet"
+            },
+            "description": {
+                "text": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+                "html": "Thursday Free Afterwork Party @Bar 13 w/Buffet"
+            },
+            "url": "https://www.eventbrite.com/e/free-afterwork-thursday-party-bar-13-wfree-buffet-tickets-837855948697",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-30T17:00:00",
+                "utc": "2024-05-30T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-30T21:00:00",
+                "utc": "2024-05-31T01:00:00Z"
+            },
+            "organization_id": "132446780686",
+            "created": "2024-02-13T19:55:11Z",
+            "changed": "2024-02-13T19:55:32Z",
+            "published": "2023-10-24T18:20:48Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Thursday Free Afterwork Party @Bar 13 w/Buffet",
+            "facebook_event_id": "366495052831191",
+            "logo_id": "696428809",
+            "organizer_id": "7843288369",
+            "venue_id": "180996059",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "837855948697",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/837855948697/",
+            "is_externally_ticketed": false,
+            "series_id": "744524892997",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?auto=format%2Ccompress&q=75&sharp=10&s=1f03651d17aa2bc3d7a39c04673cb2c5",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "696428809",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F696428809%2F132446780686%2F1%2Foriginal.20240213-195214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7637dcb8fdfc840b2c6f4a67c2e30db",
+                "aspect_ratio": "2",
+                "edge_color": "#053132",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        }
+    ]
+}

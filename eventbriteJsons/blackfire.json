@@ -1,0 +1,712 @@
+{
+    "pagination": {
+        "object_count": 7,
+        "page_number": 1,
+        "page_size": 50,
+        "page_count": 1,
+        "has_more_items": false
+    },
+    "events": [
+        {
+            "name": {
+                "text": "Paradise Sunset : Juneteenth Rooftop Day Party",
+                "html": "Paradise Sunset : Juneteenth Rooftop Day Party"
+            },
+            "description": {
+                "text": "The Doors to the best Afrobeats, Afrohouse, Amapiano, R&B Day Party of Summer 2024",
+                "html": "The Doors to the best Afrobeats, Afrohouse, Amapiano, R&B Day Party of Summer 2024"
+            },
+            "url": "https://www.eventbrite.com/e/paradise-sunset-juneteenth-rooftop-day-party-tickets-841304352967",
+            "vanity_url": "https://paradisesunset24.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-06-16T15:00:00",
+                "utc": "2024-06-16T19:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-06-16T22:00:00",
+                "utc": "2024-06-17T02:00:00Z"
+            },
+            "organization_id": "330313065629",
+            "created": "2024-02-16T05:16:37Z",
+            "changed": "2024-03-16T22:55:54Z",
+            "published": "2024-02-20T22:04:59Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "The Doors to the best Afrobeats, Afrohouse, Amapiano, R&B Day Party of Summer 2024",
+            "facebook_event_id": "920589279534979",
+            "logo_id": "721234839",
+            "organizer_id": "26443337647",
+            "venue_id": "201428239",
+            "category_id": "103",
+            "subcategory_id": "3001",
+            "format_id": "11",
+            "id": "841304352967",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/841304352967/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 297
+                    },
+                    "width": 1200,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F721234839%2F330313065629%2F1%2Foriginal.20240316-225543?auto=format%2Ccompress&q=75&sharp=10&s=d80fdd8e35770b0934a5d53638cafaf3",
+                    "width": 1200,
+                    "height": 1200
+                },
+                "id": "721234839",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F721234839%2F330313065629%2F1%2Foriginal.20240316-225543?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C297%2C1200%2C600&s=a4034755a427e6c02859131b0d2dcc2d",
+                "aspect_ratio": "2",
+                "edge_color": "#edd28d",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "43.45",
+                    "value": 4345,
+                    "display": "43.45 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-02-18T00:00:00",
+                    "utc": "2024-02-18T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Juneteenth Sunday : Rooftop  #1NYC Afrobeats-Dancehall-Amapiano and more",
+                "html": "Juneteenth Sunday : Rooftop  #1NYC Afrobeats-Dancehall-Amapiano and more"
+            },
+            "description": {
+                "text": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop & More, The right vibe just for you !",
+                "html": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop &amp; More, The right vibe just for you !"
+            },
+            "url": "https://www.eventbrite.com/e/juneteenth-sunday-rooftop-1nyc-afrobeats-dancehall-amapiano-and-more-tickets-856585649737",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-06-16T15:00:00",
+                "utc": "2024-06-16T19:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-06-16T22:00:00",
+                "utc": "2024-06-17T02:00:00Z"
+            },
+            "organization_id": "330313065629",
+            "created": "2024-03-05T01:34:07Z",
+            "changed": "2024-03-13T00:56:58Z",
+            "published": "2022-01-05T08:40:02Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop & More, The right vibe just for you !",
+            "facebook_event_id": null,
+            "logo_id": "711485269",
+            "organizer_id": "26443337647",
+            "venue_id": "201428239",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "856585649737",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/856585649737/",
+            "is_externally_ticketed": false,
+            "series_id": "238762774887",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 195
+                    },
+                    "width": 1290,
+                    "height": 645
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F711485269%2F330313065629%2F1%2Foriginal.20240305-014354?auto=format%2Ccompress&q=75&sharp=10&s=7c9615213a348b26474d4fc1a4d74281",
+                    "width": 1290,
+                    "height": 1281
+                },
+                "id": "711485269",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F711485269%2F330313065629%2F1%2Foriginal.20240305-014354?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C195%2C1290%2C645&s=1538ccaa63d34904fdf128906c092813",
+                "aspect_ratio": "2",
+                "edge_color": "#bba66a",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.51",
+                    "value": 2251,
+                    "display": "22.51 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Rollingween : 4th Annual Halloween Party",
+                "html": "Rollingween : 4th Annual Halloween Party"
+            },
+            "description": {
+                "text": "New York's Favorite Halloween Party",
+                "html": "New York's Favorite Halloween Party"
+            },
+            "url": "https://www.eventbrite.com/e/rollingween-4th-annual-halloween-party-tickets-796505759167",
+            "vanity_url": "https://Rollingween2k24.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-10-27T22:30:00",
+                "utc": "2024-10-28T02:30:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-10-28T04:00:00",
+                "utc": "2024-10-28T08:00:00Z"
+            },
+            "organization_id": "330313065629",
+            "created": "2024-01-12T02:24:24Z",
+            "changed": "2024-01-29T14:10:24Z",
+            "published": "2024-01-12T02:29:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "New York's Favorite Halloween Party",
+            "facebook_event_id": null,
+            "logo_id": "672974419",
+            "organizer_id": "26443337647",
+            "venue_id": "192142509",
+            "category_id": "116",
+            "subcategory_id": "16004",
+            "format_id": "11",
+            "id": "796505759167",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/796505759167/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 365
+                    },
+                    "width": 1350,
+                    "height": 675
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F672974419%2F330313065629%2F1%2Foriginal.20240112-022555?auto=format%2Ccompress&q=75&sharp=10&s=34a75ca4a495fcd4b67610837747b983",
+                    "width": 1350,
+                    "height": 1350
+                },
+                "id": "672974419",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F672974419%2F330313065629%2F1%2Foriginal.20240112-022555?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C365%2C1350%2C675&s=c82da6cb5aa007fcd0f38cbcc8ef2fcd",
+                "aspect_ratio": "2",
+                "edge_color": "#492f21",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.35",
+                    "value": 2235,
+                    "display": "22.35 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-01-11T05:00:00",
+                    "utc": "2024-01-11T10:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Juneteenth Sunday : Rooftop  #1NYC Afrobeats-Dancehall-Amapiano and more",
+                "html": "Juneteenth Sunday : Rooftop  #1NYC Afrobeats-Dancehall-Amapiano and more"
+            },
+            "description": {
+                "text": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop & More, The right vibe just for you !",
+                "html": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop &amp; More, The right vibe just for you !"
+            },
+            "url": "https://www.eventbrite.com/e/juneteenth-sunday-rooftop-1nyc-afrobeats-dancehall-amapiano-and-more-tickets-796507775197",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-10-27T23:00:00",
+                "utc": "2024-10-28T03:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-10-28T04:00:00",
+                "utc": "2024-10-28T08:00:00Z"
+            },
+            "organization_id": "330313065629",
+            "created": "2024-01-12T02:35:39Z",
+            "changed": "2024-03-05T01:46:51Z",
+            "published": "2022-01-05T08:40:02Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop & More, The right vibe just for you !",
+            "facebook_event_id": null,
+            "logo_id": "711485269",
+            "organizer_id": "26443337647",
+            "venue_id": "201428239",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "796507775197",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/796507775197/",
+            "is_externally_ticketed": false,
+            "series_id": "238762774887",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 195
+                    },
+                    "width": 1290,
+                    "height": 645
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F711485269%2F330313065629%2F1%2Foriginal.20240305-014354?auto=format%2Ccompress&q=75&sharp=10&s=7c9615213a348b26474d4fc1a4d74281",
+                    "width": 1290,
+                    "height": 1281
+                },
+                "id": "711485269",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F711485269%2F330313065629%2F1%2Foriginal.20240305-014354?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C195%2C1290%2C645&s=1538ccaa63d34904fdf128906c092813",
+                "aspect_ratio": "2",
+                "edge_color": "#bba66a",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.51",
+                    "value": 2251,
+                    "display": "22.51 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "New York Halloween Party ( Halloween Weekend )",
+                "html": "New York Halloween Party ( Halloween Weekend )"
+            },
+            "description": {
+                "text": "New York's Favorite Halloween Party 2024",
+                "html": "New York's Favorite Halloween Party 2024"
+            },
+            "url": "https://www.eventbrite.com/e/new-york-halloween-party-halloween-weekend-tickets-813567240517",
+            "vanity_url": "https://HalloweenParty2k24.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-11-02T22:00:00",
+                "utc": "2024-11-03T02:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-11-03T04:00:00",
+                "utc": "2024-11-03T09:00:00Z"
+            },
+            "organization_id": "330313065629",
+            "created": "2024-01-28T23:17:54Z",
+            "changed": "2024-01-29T14:13:25Z",
+            "published": "2024-01-28T23:19:58Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "New York's Favorite Halloween Party 2024",
+            "facebook_event_id": null,
+            "logo_id": "684480539",
+            "organizer_id": "26443337647",
+            "venue_id": null,
+            "category_id": "116",
+            "subcategory_id": "16004",
+            "format_id": "11",
+            "id": "813567240517",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/813567240517/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 1
+                    },
+                    "width": 1920,
+                    "height": 960
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F684480539%2F330313065629%2F1%2Foriginal.20240128-231847?auto=format%2Ccompress&q=75&sharp=10&s=5d185bec8f6ff2c74deb608ab5a74b7d",
+                    "width": 1920,
+                    "height": 1006
+                },
+                "id": "684480539",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F684480539%2F330313065629%2F1%2Foriginal.20240128-231847?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1%2C1920%2C960&s=bb63a371763858e475230abb9f811b7f",
+                "aspect_ratio": "2",
+                "edge_color": "#271a17",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "20.00",
+                    "value": 2000,
+                    "display": "20.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-01-17T04:30:00",
+                    "utc": "2024-01-17T09:30:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Juneteenth Sunday : Rooftop  #1NYC Afrobeats-Dancehall-Amapiano and more",
+                "html": "Juneteenth Sunday : Rooftop  #1NYC Afrobeats-Dancehall-Amapiano and more"
+            },
+            "description": {
+                "text": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop & More, The right vibe just for you !",
+                "html": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop &amp; More, The right vibe just for you !"
+            },
+            "url": "https://www.eventbrite.com/e/juneteenth-sunday-rooftop-1nyc-afrobeats-dancehall-amapiano-and-more-tickets-813713548127",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-11-02T22:00:00",
+                "utc": "2024-11-03T02:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-11-03T04:00:00",
+                "utc": "2024-11-03T09:00:00Z"
+            },
+            "organization_id": "330313065629",
+            "created": "2024-01-29T05:48:42Z",
+            "changed": "2024-03-05T01:46:51Z",
+            "published": "2022-01-05T08:40:02Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "#1 Afro-Caribbean New Year's   Party In New York City ( Afrobeats - Dancehall - Reggae - Soca - Hiphop & More, The right vibe just for you !",
+            "facebook_event_id": null,
+            "logo_id": "711485269",
+            "organizer_id": "26443337647",
+            "venue_id": "201428239",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "813713548127",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/813713548127/",
+            "is_externally_ticketed": false,
+            "series_id": "238762774887",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 195
+                    },
+                    "width": 1290,
+                    "height": 645
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F711485269%2F330313065629%2F1%2Foriginal.20240305-014354?auto=format%2Ccompress&q=75&sharp=10&s=7c9615213a348b26474d4fc1a4d74281",
+                    "width": 1290,
+                    "height": 1281
+                },
+                "id": "711485269",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F711485269%2F330313065629%2F1%2Foriginal.20240305-014354?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C195%2C1290%2C645&s=1538ccaa63d34904fdf128906c092813",
+                "aspect_ratio": "2",
+                "edge_color": "#bba66a",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.51",
+                    "value": 2251,
+                    "display": "22.51 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "New York New Years Party ( Welcome 2025 )",
+                "html": "New York New Years Party ( Welcome 2025 )"
+            },
+            "description": {
+                "text": "New York's Favorite New Years Eve Party",
+                "html": "New York's Favorite New Years Eve Party"
+            },
+            "url": "https://www.eventbrite.com/e/new-york-new-years-party-welcome-2025-tickets-813581091947",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-12-31T21:00:00",
+                "utc": "2025-01-01T02:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2025-01-02T04:00:00",
+                "utc": "2025-01-02T09:00:00Z"
+            },
+            "organization_id": "330313065629",
+            "created": "2024-01-29T00:10:32Z",
+            "changed": "2024-01-29T14:14:05Z",
+            "published": "2024-01-29T00:16:50Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "New York's Favorite New Years Eve Party",
+            "facebook_event_id": null,
+            "logo_id": "684501229",
+            "organizer_id": "26443337647",
+            "venue_id": null,
+            "category_id": "116",
+            "subcategory_id": "16009",
+            "format_id": "11",
+            "id": "813581091947",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/813581091947/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1920,
+                    "height": 960
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F684501229%2F330313065629%2F1%2Foriginal.20240129-001044?auto=format%2Ccompress&q=75&sharp=10&s=c5670d28923d37a29efa41fea0b047be",
+                    "width": 1920,
+                    "height": 1006
+                },
+                "id": "684501229",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F684501229%2F330313065629%2F1%2Foriginal.20240129-001044?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=be8a5c6bcca74ce6eb73f411aad242cb",
+                "aspect_ratio": "2",
+                "edge_color": "#8c5950",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "40.00",
+                    "value": 4000,
+                    "display": "40.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-01-28T09:30:00",
+                    "utc": "2024-01-28T14:30:00Z"
+                },
+                "waitlist_available": false
+            }
+        }
+    ]
+}

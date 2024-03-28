@@ -1,0 +1,1428 @@
+{
+    "pagination": {
+        "object_count": 14,
+        "page_number": 1,
+        "page_size": 50,
+        "page_count": 1,
+        "has_more_items": false
+    },
+    "events": [
+        {
+            "name": {
+                "text": "Connecticut African Restaurant Week 2023",
+                "html": "Connecticut African Restaurant Week 2023"
+            },
+            "description": {
+                "text": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+                "html": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus."
+            },
+            "url": "https://www.eventbrite.com/e/connecticut-african-restaurant-week-2023-tickets-569811620897",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-18T12:00:00",
+                "utc": "2024-04-18T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-27T22:00:00",
+                "utc": "2024-04-28T02:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-02T15:33:46Z",
+            "changed": "2024-02-29T20:49:47Z",
+            "published": "2023-03-02T15:48:04Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+            "facebook_event_id": null,
+            "logo_id": "458986619",
+            "organizer_id": "17241227646",
+            "venue_id": "141920879",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "569811620897",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/569811620897/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 751
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?auto=format%2Ccompress&q=75&sharp=10&s=64aae009605b09547374a74096751de7",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "458986619",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C751%2C3264%2C1632&s=fdc1f9c8589ab7bd2792192f2486351b",
+                "aspect_ratio": "2",
+                "edge_color": "#c0a076",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2022-11-14T00:00:00",
+                    "utc": "2022-11-14T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Las Vegas African Restaurant Week 2023",
+                "html": "Las Vegas African Restaurant Week 2023"
+            },
+            "description": {
+                "text": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+                "html": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus."
+            },
+            "url": "https://www.eventbrite.com/e/las-vegas-african-restaurant-week-2023-tickets-570142289937",
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2024-04-18T12:00:00",
+                "utc": "2024-04-18T19:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2024-04-28T22:00:00",
+                "utc": "2024-04-29T05:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-03T00:10:15Z",
+            "changed": "2024-02-29T20:48:34Z",
+            "published": "2023-03-03T00:13:01Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+            "facebook_event_id": null,
+            "logo_id": "458986619",
+            "organizer_id": "17241227646",
+            "venue_id": "142036699",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "570142289937",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/570142289937/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 751
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?auto=format%2Ccompress&q=75&sharp=10&s=64aae009605b09547374a74096751de7",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "458986619",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C751%2C3264%2C1632&s=fdc1f9c8589ab7bd2792192f2486351b",
+                "aspect_ratio": "2",
+                "edge_color": "#c0a076",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/Los_Angeles",
+                    "local": "2023-01-22T00:00:00",
+                    "utc": "2023-01-22T08:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Bay Area African Restaurant Week 2024",
+                "html": "Bay Area African Restaurant Week 2024"
+            },
+            "description": {
+                "text": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+                "html": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus."
+            },
+            "url": "https://www.eventbrite.com/e/bay-area-african-restaurant-week-2024-tickets-570161878527",
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2024-04-18T12:00:00",
+                "utc": "2024-04-18T19:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2024-04-28T22:00:00",
+                "utc": "2024-04-29T05:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-03T00:44:03Z",
+            "changed": "2023-12-10T15:59:57Z",
+            "published": "2023-03-03T00:51:10Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+            "facebook_event_id": null,
+            "logo_id": "458986619",
+            "organizer_id": "17241227646",
+            "venue_id": "142040909",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "570161878527",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/570161878527/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 751
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?auto=format%2Ccompress&q=75&sharp=10&s=64aae009605b09547374a74096751de7",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "458986619",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C751%2C3264%2C1632&s=fdc1f9c8589ab7bd2792192f2486351b",
+                "aspect_ratio": "2",
+                "edge_color": "#c0a076",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/Los_Angeles",
+                    "local": "2021-11-10T00:00:00",
+                    "utc": "2021-11-10T08:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "New Orleans African Restaurant Week 2024",
+                "html": "New Orleans African Restaurant Week 2024"
+            },
+            "description": {
+                "text": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+                "html": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus."
+            },
+            "url": "https://www.eventbrite.com/e/new-orleans-african-restaurant-week-2024-tickets-569893174827",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-23T12:00:00",
+                "utc": "2024-04-23T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-03T22:00:00",
+                "utc": "2024-05-04T02:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-02T17:15:25Z",
+            "changed": "2023-11-23T13:43:51Z",
+            "published": "2023-03-02T23:59:18Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+            "facebook_event_id": null,
+            "logo_id": "458986619",
+            "organizer_id": "17241227646",
+            "venue_id": "141948569",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "569893174827",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/569893174827/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 751
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?auto=format%2Ccompress&q=75&sharp=10&s=64aae009605b09547374a74096751de7",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "458986619",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C751%2C3264%2C1632&s=fdc1f9c8589ab7bd2792192f2486351b",
+                "aspect_ratio": "2",
+                "edge_color": "#c0a076",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2022-09-10T00:00:00",
+                    "utc": "2022-09-10T04:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Virginia African Restaurant Week 2024",
+                "html": "Virginia African Restaurant Week 2024"
+            },
+            "description": {
+                "text": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+                "html": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus."
+            },
+            "url": "https://www.eventbrite.com/e/virginia-african-restaurant-week-2024-tickets-569863155037",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-23T12:00:00",
+                "utc": "2024-05-23T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-06-02T22:00:00",
+                "utc": "2024-06-03T02:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-02T16:43:43Z",
+            "changed": "2023-11-23T13:39:02Z",
+            "published": "2023-03-02T16:49:16Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+            "facebook_event_id": null,
+            "logo_id": "458986619",
+            "organizer_id": "17241227646",
+            "venue_id": "141938899",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "569863155037",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/569863155037/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 751
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?auto=format%2Ccompress&q=75&sharp=10&s=64aae009605b09547374a74096751de7",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "458986619",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C751%2C3264%2C1632&s=fdc1f9c8589ab7bd2792192f2486351b",
+                "aspect_ratio": "2",
+                "edge_color": "#c0a076",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2023-02-13T00:00:00",
+                    "utc": "2023-02-13T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "African Popup Festival 2024 - Summer Edition",
+                "html": "African Popup Festival 2024 - Summer Edition"
+            },
+            "description": {
+                "text": "African Popup Festival -   Food Market -  Afrobeat/Amapiano/Soca/ - Live Performances - Vendors",
+                "html": "African Popup Festival -   Food Market -  Afrobeat/Amapiano/Soca/ - Live Performances - Vendors"
+            },
+            "url": "https://www.eventbrite.com/e/african-popup-festival-2024-summer-edition-tickets-795572547907",
+            "vanity_url": "https://apf-2024.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-07-27T12:00:00",
+                "utc": "2024-07-27T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-07-28T19:00:00",
+                "utc": "2024-07-28T23:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2024-01-10T19:13:34Z",
+            "changed": "2024-03-25T04:37:05Z",
+            "published": "2024-01-10T22:13:34Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "African Popup Festival -   Food Market -  Afrobeat/Amapiano/Soca/ - Live Performances - Vendors",
+            "facebook_event_id": null,
+            "logo_id": "514456859",
+            "organizer_id": "17241227646",
+            "venue_id": "191862879",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "795572547907",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/795572547907/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 940,
+                    "height": 470
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F514456859%2F253934397491%2F1%2Foriginal.20230514-173055?auto=format%2Ccompress&q=75&sharp=10&s=eadfb5aef7367d8a06f0ed966ccbe1d9",
+                    "width": 940,
+                    "height": 470
+                },
+                "id": "514456859",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F514456859%2F253934397491%2F1%2Foriginal.20230514-173055?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=7974d052314fdddb5d10c3151302a439",
+                "aspect_ratio": "2",
+                "edge_color": "#949296",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2023-12-11T00:00:00",
+                    "utc": "2023-12-11T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Chicago African Restaurant Week 2024",
+                "html": "Chicago African Restaurant Week 2024"
+            },
+            "description": {
+                "text": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+                "html": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus."
+            },
+            "url": "https://www.eventbrite.com/e/chicago-african-restaurant-week-2024-tickets-570781090607",
+            "start": {
+                "timezone": "America/Chicago",
+                "local": "2024-08-10T12:00:00",
+                "utc": "2024-08-10T17:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Chicago",
+                "local": "2024-08-20T22:00:00",
+                "utc": "2024-08-21T03:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-03T15:36:23Z",
+            "changed": "2023-08-08T13:20:08Z",
+            "published": "2023-03-03T15:46:36Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+            "facebook_event_id": null,
+            "logo_id": "458986619",
+            "organizer_id": "17241227646",
+            "venue_id": "142134509",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "570781090607",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/570781090607/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 751
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?auto=format%2Ccompress&q=75&sharp=10&s=64aae009605b09547374a74096751de7",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "458986619",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C751%2C3264%2C1632&s=fdc1f9c8589ab7bd2792192f2486351b",
+                "aspect_ratio": "2",
+                "edge_color": "#c0a076",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/Chicago",
+                    "local": "2022-03-11T00:00:00",
+                    "utc": "2022-03-11T06:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "St Louis African Restaurant Week 2024",
+                "html": "St Louis African Restaurant Week 2024"
+            },
+            "description": {
+                "text": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+                "html": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus."
+            },
+            "url": "https://www.eventbrite.com/e/st-louis-african-restaurant-week-2024-tickets-570800980097",
+            "start": {
+                "timezone": "America/Chicago",
+                "local": "2024-08-10T12:00:00",
+                "utc": "2024-08-10T17:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Chicago",
+                "local": "2024-08-20T22:00:00",
+                "utc": "2024-08-21T03:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-03T16:01:58Z",
+            "changed": "2023-11-09T17:58:29Z",
+            "published": "2023-03-03T16:09:26Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+            "facebook_event_id": null,
+            "logo_id": "458986619",
+            "organizer_id": "17241227646",
+            "venue_id": "142140089",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "570800980097",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/570800980097/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 751
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?auto=format%2Ccompress&q=75&sharp=10&s=64aae009605b09547374a74096751de7",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "458986619",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C751%2C3264%2C1632&s=fdc1f9c8589ab7bd2792192f2486351b",
+                "aspect_ratio": "2",
+                "edge_color": "#c0a076",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/Chicago",
+                    "local": "2022-03-11T00:00:00",
+                    "utc": "2022-03-11T06:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "New Jersey African Restaurant Week  2024",
+                "html": "New Jersey African Restaurant Week  2024"
+            },
+            "description": {
+                "text": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs",
+                "html": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs"
+            },
+            "url": "https://www.eventbrite.com/e/new-jersey-african-restaurant-week-2024-tickets-868518300617",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-08-15T12:00:00",
+                "utc": "2024-08-15T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-08-25T19:00:00",
+                "utc": "2024-08-25T23:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2024-03-21T18:02:37Z",
+            "changed": "2024-03-21T18:17:09Z",
+            "published": "2024-03-21T18:08:55Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs",
+            "facebook_event_id": null,
+            "logo_id": "458171849",
+            "organizer_id": "17241227646",
+            "venue_id": "204687539",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "868518300617",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/868518300617/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 344
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458171849%2F253934397491%2F1%2Foriginal.20230301-170145?auto=format%2Ccompress&q=75&sharp=10&s=ef5c0bbd0260c5e637f2984bfd02c38a",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "458171849",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458171849%2F253934397491%2F1%2Foriginal.20230301-170145?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C344%2C1080%2C540&s=9279d14304ca0c20f0edf911a151800e",
+                "aspect_ratio": "2",
+                "edge_color": "#b6a289",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2023-12-11T00:00:00",
+                    "utc": "2023-12-11T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Ohio African Restaurant Week 2024",
+                "html": "Ohio African Restaurant Week 2024"
+            },
+            "description": {
+                "text": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+                "html": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus."
+            },
+            "url": "https://www.eventbrite.com/e/ohio-african-restaurant-week-2024-tickets-570789796647",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-08-17T12:00:00",
+                "utc": "2024-08-17T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-08-28T22:00:00",
+                "utc": "2024-08-29T02:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-03T15:49:22Z",
+            "changed": "2023-11-09T18:02:30Z",
+            "published": "2023-03-03T15:56:59Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week will include a handful of restaurants  offering discounted traditional African inspired menus.",
+            "facebook_event_id": null,
+            "logo_id": "458986619",
+            "organizer_id": "17241227646",
+            "venue_id": "142137589",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "570789796647",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/570789796647/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 751
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?auto=format%2Ccompress&q=75&sharp=10&s=64aae009605b09547374a74096751de7",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "458986619",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F458986619%2F253934397491%2F1%2Foriginal.20230302-134008?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C751%2C3264%2C1632&s=fdc1f9c8589ab7bd2792192f2486351b",
+                "aspect_ratio": "2",
+                "edge_color": "#c0a076",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2022-03-18T00:00:00",
+                    "utc": "2022-03-18T04:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "New Jersey African Restaurant Week Festival 2024 (Newark)",
+                "html": "New Jersey African Restaurant Week Festival 2024 (Newark)"
+            },
+            "description": {
+                "text": "African Restaurant Week Festival on August 24 and 25  12pm - 7pm on both days.",
+                "html": "African Restaurant Week Festival on August 24 and 25  12pm - 7pm on both days."
+            },
+            "url": "https://www.eventbrite.com/e/new-jersey-african-restaurant-week-festival-2024-newark-tickets-871154746297",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-08-24T12:00:00",
+                "utc": "2024-08-24T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-08-25T19:00:00",
+                "utc": "2024-08-25T23:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2024-03-25T16:46:51Z",
+            "changed": "2024-03-26T02:59:52Z",
+            "published": "2024-03-25T17:26:34Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "African Restaurant Week Festival on August 24 and 25  12pm - 7pm on both days.",
+            "facebook_event_id": null,
+            "logo_id": "727739289",
+            "organizer_id": "17241227646",
+            "venue_id": "205212729",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "871154746297",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/871154746297/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 15
+                    },
+                    "width": 978,
+                    "height": 489
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F727739289%2F253934397491%2F1%2Foriginal.20240325-171859?auto=format%2Ccompress&q=75&sharp=10&s=75a2e8f802fbcd88b925c0b43b15a014",
+                    "width": 978,
+                    "height": 651
+                },
+                "id": "727739289",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F727739289%2F253934397491%2F1%2Foriginal.20240325-171859?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C15%2C978%2C489&s=b0887d136178e1f45480b5511b40fca6",
+                "aspect_ratio": "2",
+                "edge_color": "#bdc8ce",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-02-07T00:00:00",
+                    "utc": "2024-02-07T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "North Carolina African Restaurant Week Festival 2024",
+                "html": "North Carolina African Restaurant Week Festival 2024"
+            },
+            "description": {
+                "text": "Community - Culture - Small Business",
+                "html": "Community - Culture - Small Business"
+            },
+            "url": "https://www.eventbrite.com/e/north-carolina-african-restaurant-week-festival-2024-tickets-602801183567",
+            "vanity_url": "https://nc-arwfest-2023.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-09-14T12:00:00",
+                "utc": "2024-09-14T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-09-14T19:00:00",
+                "utc": "2024-09-14T23:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2023-03-29T19:40:38Z",
+            "changed": "2024-02-25T15:29:22Z",
+            "published": "2023-03-29T20:41:11Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Community - Culture - Small Business",
+            "facebook_event_id": null,
+            "logo_id": "564149419",
+            "organizer_id": "17241227646",
+            "venue_id": "146844159",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "602801183567",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/602801183567/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 940,
+                    "height": 470
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F564149419%2F253934397491%2F1%2Foriginal.20230728-164302?auto=format%2Ccompress&q=75&sharp=10&s=02197dbb1c76666cd0e1b5b65ac65772",
+                    "width": 940,
+                    "height": 470
+                },
+                "id": "564149419",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F564149419%2F253934397491%2F1%2Foriginal.20230728-164302?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=46c68fd42c968f72f471789daa42f978",
+                "aspect_ratio": "2",
+                "edge_color": "#053f4d",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2023-03-15T00:00:00",
+                    "utc": "2023-03-15T04:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Atlanta African Restaurant Week Festival 2024",
+                "html": "Atlanta African Restaurant Week Festival 2024"
+            },
+            "description": {
+                "text": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs",
+                "html": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs"
+            },
+            "url": "https://www.eventbrite.com/e/atlanta-african-restaurant-week-festival-2024-tickets-301286675557",
+            "vanity_url": "https://atl-arwfest.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-10-26T12:00:00",
+                "utc": "2024-10-26T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-10-26T19:00:00",
+                "utc": "2024-10-26T23:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2022-03-18T08:32:41Z",
+            "changed": "2024-02-25T15:22:13Z",
+            "published": "2022-03-18T09:02:49Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs",
+            "facebook_event_id": null,
+            "logo_id": "466079489",
+            "organizer_id": "17241227646",
+            "venue_id": "88708869",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "301286675557",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/301286675557/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 816
+                    },
+                    "width": 3264,
+                    "height": 1632
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F466079489%2F253934397491%2F1%2Foriginal.20230310-183635?auto=format%2Ccompress&q=75&sharp=10&s=65f806237173a10427c2a6d463b1249b",
+                    "width": 3264,
+                    "height": 3264
+                },
+                "id": "466079489",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F466079489%2F253934397491%2F1%2Foriginal.20230310-183635?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C816%2C3264%2C1632&s=5f4aa20168ea1a1ad78ce7f4b9d79547",
+                "aspect_ratio": "2",
+                "edge_color": "#fdfefc",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2022-02-21T00:00:00",
+                    "utc": "2022-02-21T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Houston African Restaurant Week Festival 2024",
+                "html": "Houston African Restaurant Week Festival 2024"
+            },
+            "description": {
+                "text": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs",
+                "html": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs"
+            },
+            "url": "https://www.eventbrite.com/e/houston-african-restaurant-week-festival-2024-tickets-283308783197",
+            "start": {
+                "timezone": "America/Chicago",
+                "local": "2024-11-02T12:00:00",
+                "utc": "2024-11-02T17:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Chicago",
+                "local": "2024-11-03T22:00:00",
+                "utc": "2024-11-04T04:00:00Z"
+            },
+            "organization_id": "253934397491",
+            "created": "2022-02-28T02:11:13Z",
+            "changed": "2024-03-05T14:12:04Z",
+            "published": "2022-02-28T02:45:59Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "A Celebration of the Best of African/Black Diaspora Food and Culture - Come support Local Businesses and Entrepreneurs",
+            "facebook_event_id": null,
+            "logo_id": "246621669",
+            "organizer_id": "17241227646",
+            "venue_id": "85706319",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "5",
+            "id": "283308783197",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/283308783197/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1280,
+                    "height": 640
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F246621669%2F253934397491%2F1%2Foriginal.20220313-232910?auto=format%2Ccompress&q=75&sharp=10&s=dd3f8d919ab022246e4fdb420ad6d6ab",
+                    "width": 1280,
+                    "height": 640
+                },
+                "id": "246621669",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F246621669%2F253934397491%2F1%2Foriginal.20220313-232910?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=5be3650734696a1cf3d1f8d536e9bba2",
+                "aspect_ratio": "2",
+                "edge_color": "#02404f",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/Chicago",
+                    "local": "2022-02-27T00:00:00",
+                    "utc": "2022-02-27T06:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        }
+    ]
+}

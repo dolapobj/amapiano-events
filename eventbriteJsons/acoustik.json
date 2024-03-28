@@ -1,0 +1,2171 @@
+{
+    "pagination": {
+        "object_count": 22,
+        "page_number": 1,
+        "page_size": 50,
+        "page_count": 1,
+        "has_more_items": false
+    },
+    "events": [
+        {
+            "name": {
+                "text": "Taco Thursdays",
+                "html": "Taco Thursdays"
+            },
+            "description": {
+                "text": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+                "html": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss"
+            },
+            "url": "https://www.eventbrite.com/e/taco-thursdays-tickets-860288525137",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-03-28T21:00:00",
+                "utc": "2024-03-29T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-03-29T03:00:00",
+                "utc": "2024-03-29T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-10T05:08:49Z",
+            "changed": "2024-03-25T22:52:52Z",
+            "published": "2023-12-26T22:22:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": true,
+            "version": null,
+            "summary": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+            "facebook_event_id": null,
+            "logo_id": "686459239",
+            "organizer_id": "17919316271",
+            "venue_id": "189564459",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "11",
+            "id": "860288525137",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/860288525137/",
+            "is_externally_ticketed": false,
+            "series_id": "783571021017",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?auto=format%2Ccompress&q=75&sharp=10&s=2e9299be46fe1c19778dad57f8cd0ccf",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "686459239",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=14ec70d042dd331b67ea63bcd91ae229",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "HEAD WRAP & PAINT",
+                "html": "HEAD WRAP &amp; PAINT"
+            },
+            "description": {
+                "text": "Women's History Month experience",
+                "html": "Women's History Month experience"
+            },
+            "url": "https://www.eventbrite.com/e/head-wrap-paint-tickets-859756654297",
+            "vanity_url": "https://Headwrapandpaint.eventbrite.com",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-03-29T17:00:00",
+                "utc": "2024-03-29T21:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-03-29T20:00:00",
+                "utc": "2024-03-30T00:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-08T22:58:01Z",
+            "changed": "2024-03-26T02:16:38Z",
+            "published": "2024-03-09T21:21:17Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Women's History Month experience",
+            "facebook_event_id": null,
+            "logo_id": "715665179",
+            "organizer_id": "17919316271",
+            "venue_id": "202291989",
+            "category_id": "106",
+            "subcategory_id": "6002",
+            "format_id": "9",
+            "id": "859756654297",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/859756654297/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1066,
+                    "height": 533
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F715665179%2F146817513545%2F1%2Foriginal.20240309-212229?auto=format%2Ccompress&q=75&sharp=10&s=5a7729fb5e8336b45670e5a494a1c443",
+                    "width": 1067,
+                    "height": 1384
+                },
+                "id": "715665179",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F715665179%2F146817513545%2F1%2Foriginal.20240309-212229?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1066%2C533&s=c8e7370ca26801feb8ffadae613622a3",
+                "aspect_ratio": "2",
+                "edge_color": "#efdcd2",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "23.18",
+                    "value": 2318,
+                    "display": "23.18 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "58.40",
+                    "value": 5840,
+                    "display": "58.40 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": {
+                    "timezone": "America/New_York",
+                    "local": "2024-03-09T00:00:00",
+                    "utc": "2024-03-09T05:00:00Z"
+                },
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "RandB vs Gouyard",
+                "html": "RandB vs Gouyard"
+            },
+            "description": {
+                "text": "RandB vs Gouyard: A showdown between classic R&B hits and modern Gouyard beats, where music lovers can groove to their favorite tunes all ni",
+                "html": "RandB vs Gouyard: A showdown between classic R&B hits and modern Gouyard beats, where music lovers can groove to their favorite tunes all ni"
+            },
+            "url": "https://www.eventbrite.com/e/randb-vs-gouyard-tickets-854958512927",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-03-30T21:00:00",
+                "utc": "2024-03-31T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-03-31T02:00:00",
+                "utc": "2024-03-31T06:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-02T23:58:43Z",
+            "changed": "2024-03-28T10:18:30Z",
+            "published": "2024-03-03T04:02:09Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": false,
+            "version": null,
+            "summary": "RandB vs Gouyard: A showdown between classic R&B hits and modern Gouyard beats, where music lovers can groove to their favorite tunes all ni",
+            "facebook_event_id": null,
+            "logo_id": "710029089",
+            "organizer_id": "17919316271",
+            "venue_id": "200982329",
+            "category_id": "103",
+            "subcategory_id": "3014",
+            "format_id": "6",
+            "id": "854958512927",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/854958512927/",
+            "is_externally_ticketed": false,
+            "series_id": "854090015227",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 8640,
+                    "height": 4320
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F710029089%2F146817513545%2F1%2Foriginal.20240302-223701?auto=format%2Ccompress&q=75&sharp=10&s=1e88e2b078213025b10dd8eb2ae8b29e",
+                    "width": 8640,
+                    "height": 4320
+                },
+                "id": "710029089",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F710029089%2F146817513545%2F1%2Foriginal.20240302-223701?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C8640%2C4320&s=70b65211dd8dd84ed0f1515cdee0ae23",
+                "aspect_ratio": "2",
+                "edge_color": "#311630",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "33.85",
+                    "value": 3385,
+                    "display": "33.85 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "33.85",
+                    "value": 3385,
+                    "display": "33.85 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "SUYA NIGHT",
+                "html": "SUYA NIGHT"
+            },
+            "description": {
+                "text": "Suya Night.",
+                "html": "Suya Night."
+            },
+            "url": "https://www.eventbrite.com/e/suya-night-tickets-871425064827",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-03-30T21:00:00",
+                "utc": "2024-03-31T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-03-31T02:00:00",
+                "utc": "2024-03-31T06:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-25T23:11:10Z",
+            "changed": "2024-03-25T23:12:30Z",
+            "published": "2019-11-15T23:59:57Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 600,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "create_2.0",
+            "is_free": false,
+            "version": null,
+            "summary": "Suya Night.",
+            "facebook_event_id": null,
+            "logo_id": "720047779",
+            "organizer_id": "17919316271",
+            "venue_id": "41848091",
+            "category_id": "110",
+            "subcategory_id": "10999",
+            "format_id": "11",
+            "id": "871425064827",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/871425064827/",
+            "is_externally_ticketed": false,
+            "series_id": "82294269375",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 266
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F720047779%2F146817513545%2F1%2Foriginal.20240315-025214?auto=format%2Ccompress&q=75&sharp=10&s=a5032275eba862d3ff6be6c7cb56f28f",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "720047779",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F720047779%2F146817513545%2F1%2Foriginal.20240315-025214?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C266%2C1080%2C540&s=60e8c9cf416b3e1c3e1b2ca592dedb42",
+                "aspect_ratio": "2",
+                "edge_color": "#856f63",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.85",
+                    "value": 2285,
+                    "display": "22.85 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "ACOUSTIK GARDEN LOUNGE- HAPPY HOUR",
+                "html": "ACOUSTIK GARDEN LOUNGE- HAPPY HOUR"
+            },
+            "description": {
+                "text": "Your late-night favorite happy hour spot",
+                "html": "Your late-night favorite happy hour spot"
+            },
+            "url": "https://www.eventbrite.com/e/acoustik-garden-lounge-happy-hour-tickets-764349769737",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-03T21:00:00",
+                "utc": "2024-04-04T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-04T02:00:00",
+                "utc": "2024-04-04T06:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2023-11-22T05:08:39Z",
+            "changed": "2024-03-27T16:17:41Z",
+            "published": "2021-02-26T17:29:40Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": true,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Your late-night favorite happy hour spot",
+            "facebook_event_id": null,
+            "logo_id": "351875799",
+            "organizer_id": "17919316271",
+            "venue_id": "53713267",
+            "category_id": "110",
+            "subcategory_id": "10002",
+            "format_id": "8",
+            "id": "764349769737",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/764349769737/",
+            "is_externally_ticketed": false,
+            "series_id": "124424309459",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 249
+                    },
+                    "width": 1654,
+                    "height": 827
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F351875799%2F6169046141%2F1%2Foriginal.20220910-200249?auto=format%2Ccompress&q=75&sharp=10&s=040462ec599f94f32bfe12e39f604739",
+                    "width": 1654,
+                    "height": 1654
+                },
+                "id": "351875799",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F351875799%2F6169046141%2F1%2Foriginal.20220910-200249?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C249%2C1654%2C827&s=d81c49ec764606418045ad3b2c6e67bc",
+                "aspect_ratio": "2",
+                "edge_color": "#4d0f0a",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "12.24",
+                    "value": 1224,
+                    "display": "12.24 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "AFROBEATS / AMAPIANO / AFROHOUSE OPEN DECK DJ SET",
+                "html": "AFROBEATS / AMAPIANO / AFROHOUSE OPEN DECK DJ SET"
+            },
+            "description": {
+                "text": "Open DJ set for Afrobeats and Amapiano Djs",
+                "html": "Open DJ set for Afrobeats and Amapiano Djs"
+            },
+            "url": "https://www.eventbrite.com/e/afrobeats-amapiano-afrohouse-open-deck-dj-set-tickets-871426007647",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-03T21:00:00",
+                "utc": "2024-04-04T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-04T02:00:00",
+                "utc": "2024-04-04T06:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-25T23:14:58Z",
+            "changed": "2024-03-28T06:36:06Z",
+            "published": "2024-01-29T03:34:54Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Open DJ set for Afrobeats and Amapiano Djs",
+            "facebook_event_id": null,
+            "logo_id": "694520539",
+            "organizer_id": "17919316271",
+            "venue_id": "195104169",
+            "category_id": "103",
+            "subcategory_id": "3023",
+            "format_id": "6",
+            "id": "871426007647",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/871426007647/",
+            "is_externally_ticketed": false,
+            "series_id": "813570209397",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 81,
+                        "y": 0
+                    },
+                    "width": 946,
+                    "height": 473
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F694520539%2F146817513545%2F1%2Foriginal.20240129-032912?auto=format%2Ccompress&q=75&sharp=10&s=decc2f0076ebf51512bdd37e45fa0e23",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "694520539",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F694520539%2F146817513545%2F1%2Foriginal.20240129-032912?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=81%2C0%2C946%2C473&s=39d5e0c29147b3834be25288f0ba570e",
+                "aspect_ratio": "2",
+                "edge_color": "#2c1d0a",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "QUEER HAPPY HOUR",
+                "html": "QUEER HAPPY HOUR"
+            },
+            "description": {
+                "text": "PRIDE HAPPY HOUR",
+                "html": "PRIDE HAPPY HOUR"
+            },
+            "url": "https://www.eventbrite.com/e/queer-happy-hour-tickets-863135630907",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-04T18:00:00",
+                "utc": "2024-04-04T22:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-05T10:00:00",
+                "utc": "2024-04-05T14:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-14T17:28:34Z",
+            "changed": "2024-03-14T17:28:34Z",
+            "published": "2022-06-10T01:18:35Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "PRIDE HAPPY HOUR",
+            "facebook_event_id": null,
+            "logo_id": "678551199",
+            "organizer_id": "17919316271",
+            "venue_id": "101036579",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "863135630907",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/863135630907/",
+            "is_externally_ticketed": false,
+            "series_id": "362717466707",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 92
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F678551199%2F146817513545%2F1%2Foriginal.20240119-204255?auto=format%2Ccompress&q=75&sharp=10&s=7b20c7a48c81b30f8a1dc75828e15515",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "678551199",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F678551199%2F146817513545%2F1%2Foriginal.20240119-204255?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C92%2C1080%2C540&s=b336327d7914fcf4e26fe728b68258dd",
+                "aspect_ratio": "2",
+                "edge_color": "#689b66",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Taco Thursdays",
+                "html": "Taco Thursdays"
+            },
+            "description": {
+                "text": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+                "html": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss"
+            },
+            "url": "https://www.eventbrite.com/e/taco-thursdays-tickets-860288535167",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-04T21:00:00",
+                "utc": "2024-04-05T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-05T03:00:00",
+                "utc": "2024-04-05T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-10T05:08:49Z",
+            "changed": "2024-03-25T22:52:52Z",
+            "published": "2023-12-26T22:22:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": true,
+            "version": null,
+            "summary": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+            "facebook_event_id": null,
+            "logo_id": "686459239",
+            "organizer_id": "17919316271",
+            "venue_id": "189564459",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "11",
+            "id": "860288535167",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/860288535167/",
+            "is_externally_ticketed": false,
+            "series_id": "783571021017",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?auto=format%2Ccompress&q=75&sharp=10&s=2e9299be46fe1c19778dad57f8cd0ccf",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "686459239",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=14ec70d042dd331b67ea63bcd91ae229",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "NAIJA HAPPY HOUR",
+                "html": "NAIJA HAPPY HOUR"
+            },
+            "description": {
+                "text": "Naija Happy Hour",
+                "html": "Naija Happy Hour"
+            },
+            "url": "https://www.eventbrite.com/e/naija-happy-hour-tickets-864318177937",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-05T18:00:00",
+                "utc": "2024-04-05T22:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-05T22:00:00",
+                "utc": "2024-04-06T02:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-16T01:46:37Z",
+            "changed": "2024-03-17T22:11:22Z",
+            "published": "2021-10-20T05:56:00Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": true,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Naija Happy Hour",
+            "facebook_event_id": null,
+            "logo_id": "721334909",
+            "organizer_id": "17919316271",
+            "venue_id": "68643099",
+            "category_id": "103",
+            "subcategory_id": "3005",
+            "format_id": "11",
+            "id": "864318177937",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/864318177937/",
+            "is_externally_ticketed": false,
+            "series_id": "194903510647",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 64
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F721334909%2F146817513545%2F1%2Foriginal.20240317-044640?auto=format%2Ccompress&q=75&sharp=10&s=8437943ef6a13224c2ea7b0f6b7f494b",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "721334909",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F721334909%2F146817513545%2F1%2Foriginal.20240317-044640?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C64%2C1080%2C540&s=603556ce42e685ec4f367a0f2138d573",
+                "aspect_ratio": "2",
+                "edge_color": "#4d744c",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "AFRO-KONPA NIGHT",
+                "html": "AFRO-KONPA NIGHT"
+            },
+            "description": {
+                "text": "Come to learn Kompa moves and use them let.",
+                "html": "Come to learn Kompa moves and use them let."
+            },
+            "url": "https://www.eventbrite.com/e/afro-konpa-night-tickets-862598654797",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-05T21:00:00",
+                "utc": "2024-04-06T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-06T02:00:00",
+                "utc": "2024-04-06T06:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-14T03:04:45Z",
+            "changed": "2024-03-14T04:47:58Z",
+            "published": "2023-05-09T22:28:56Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Come to learn Kompa moves and use them let.",
+            "facebook_event_id": null,
+            "logo_id": "669022749",
+            "organizer_id": "17919316271",
+            "venue_id": "153548949",
+            "category_id": "103",
+            "subcategory_id": "3005",
+            "format_id": "11",
+            "id": "862598654797",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/862598654797/",
+            "is_externally_ticketed": false,
+            "series_id": "632850050537",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 14,
+                        "y": 0
+                    },
+                    "width": 1050,
+                    "height": 525
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F669022749%2F146817513545%2F1%2Foriginal.20240106-224512?auto=format%2Ccompress&q=75&sharp=10&s=a2a0e67b226d6c4a09e501cf0aacfcfd",
+                    "width": 1079,
+                    "height": 525
+                },
+                "id": "669022749",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F669022749%2F146817513545%2F1%2Foriginal.20240106-224512?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=14%2C0%2C1050%2C525&s=0977f70cab37bfee9df9c9fd319c2999",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "23.18",
+                    "value": 2318,
+                    "display": "23.18 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "33.85",
+                    "value": 3385,
+                    "display": "33.85 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "AFROBEATS NIGHTS NYC",
+                "html": "AFROBEATS NIGHTS NYC"
+            },
+            "description": {
+                "text": "Get ready to groove to the infectious beats of Afrobeats.",
+                "html": "Get ready to groove to the infectious beats of Afrobeats."
+            },
+            "url": "https://www.eventbrite.com/e/afrobeats-nights-nyc-tickets-853081157707",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-06T21:00:00",
+                "utc": "2024-04-07T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-07T02:00:00",
+                "utc": "2024-04-07T06:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-02-29T18:25:57Z",
+            "changed": "2024-03-26T02:10:48Z",
+            "published": "2019-05-08T05:19:25Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 600,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "create_2.0",
+            "is_free": false,
+            "version": null,
+            "summary": "Get ready to groove to the infectious beats of Afrobeats.",
+            "facebook_event_id": null,
+            "logo_id": "715790069",
+            "organizer_id": "17919316271",
+            "venue_id": "39349749",
+            "category_id": "103",
+            "subcategory_id": "3999",
+            "format_id": "11",
+            "id": "853081157707",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/853081157707/",
+            "is_externally_ticketed": false,
+            "series_id": "61556659626",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 37
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F715790069%2F146817513545%2F1%2Foriginal.20240310-050139?auto=format%2Ccompress&q=75&sharp=10&s=c97d7ad7d79ec8a2ce96eee2c6a00d01",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "715790069",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F715790069%2F146817513545%2F1%2Foriginal.20240310-050139?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C37%2C1080%2C540&s=5001ba04b8ce1c082b9507da3297095d",
+                "aspect_ratio": "2",
+                "edge_color": "#115f62",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.85",
+                    "value": 2285,
+                    "display": "22.85 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.85",
+                    "value": 2285,
+                    "display": "22.85 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "ACOUSTIK GARDEN LOUNGE- HAPPY HOUR",
+                "html": "ACOUSTIK GARDEN LOUNGE- HAPPY HOUR"
+            },
+            "description": {
+                "text": "Your late-night favorite happy hour spot",
+                "html": "Your late-night favorite happy hour spot"
+            },
+            "url": "https://www.eventbrite.com/e/acoustik-garden-lounge-happy-hour-tickets-764349779767",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-10T21:00:00",
+                "utc": "2024-04-11T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-11T02:00:00",
+                "utc": "2024-04-11T06:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2023-11-22T05:08:39Z",
+            "changed": "2024-03-27T16:17:41Z",
+            "published": "2021-02-26T17:29:40Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": true,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Your late-night favorite happy hour spot",
+            "facebook_event_id": null,
+            "logo_id": "351875799",
+            "organizer_id": "17919316271",
+            "venue_id": "53713267",
+            "category_id": "110",
+            "subcategory_id": "10002",
+            "format_id": "8",
+            "id": "764349779767",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/764349779767/",
+            "is_externally_ticketed": false,
+            "series_id": "124424309459",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 249
+                    },
+                    "width": 1654,
+                    "height": 827
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F351875799%2F6169046141%2F1%2Foriginal.20220910-200249?auto=format%2Ccompress&q=75&sharp=10&s=040462ec599f94f32bfe12e39f604739",
+                    "width": 1654,
+                    "height": 1654
+                },
+                "id": "351875799",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F351875799%2F6169046141%2F1%2Foriginal.20220910-200249?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C249%2C1654%2C827&s=d81c49ec764606418045ad3b2c6e67bc",
+                "aspect_ratio": "2",
+                "edge_color": "#4d0f0a",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "12.24",
+                    "value": 1224,
+                    "display": "12.24 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Taco Thursdays",
+                "html": "Taco Thursdays"
+            },
+            "description": {
+                "text": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+                "html": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss"
+            },
+            "url": "https://www.eventbrite.com/e/taco-thursdays-tickets-860288545197",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-11T21:00:00",
+                "utc": "2024-04-12T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-12T03:00:00",
+                "utc": "2024-04-12T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-10T05:08:49Z",
+            "changed": "2024-03-25T22:52:52Z",
+            "published": "2023-12-26T22:22:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": true,
+            "version": null,
+            "summary": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+            "facebook_event_id": null,
+            "logo_id": "686459239",
+            "organizer_id": "17919316271",
+            "venue_id": "189564459",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "11",
+            "id": "860288545197",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/860288545197/",
+            "is_externally_ticketed": false,
+            "series_id": "783571021017",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?auto=format%2Ccompress&q=75&sharp=10&s=2e9299be46fe1c19778dad57f8cd0ccf",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "686459239",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=14ec70d042dd331b67ea63bcd91ae229",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Taco Thursdays",
+                "html": "Taco Thursdays"
+            },
+            "description": {
+                "text": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+                "html": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss"
+            },
+            "url": "https://www.eventbrite.com/e/taco-thursdays-tickets-860288555227",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-18T21:00:00",
+                "utc": "2024-04-19T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-19T03:00:00",
+                "utc": "2024-04-19T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-10T05:08:49Z",
+            "changed": "2024-03-25T22:52:52Z",
+            "published": "2023-12-26T22:22:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": true,
+            "version": null,
+            "summary": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+            "facebook_event_id": null,
+            "logo_id": "686459239",
+            "organizer_id": "17919316271",
+            "venue_id": "189564459",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "11",
+            "id": "860288555227",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/860288555227/",
+            "is_externally_ticketed": false,
+            "series_id": "783571021017",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?auto=format%2Ccompress&q=75&sharp=10&s=2e9299be46fe1c19778dad57f8cd0ccf",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "686459239",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=14ec70d042dd331b67ea63bcd91ae229",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "NAIJA HAPPY HOUR",
+                "html": "NAIJA HAPPY HOUR"
+            },
+            "description": {
+                "text": "Naija Happy Hour",
+                "html": "Naija Happy Hour"
+            },
+            "url": "https://www.eventbrite.com/e/naija-happy-hour-tickets-865227908967",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-19T18:00:00",
+                "utc": "2024-04-19T22:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-19T22:00:00",
+                "utc": "2024-04-20T02:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-18T02:54:52Z",
+            "changed": "2024-03-18T02:54:52Z",
+            "published": "2021-10-20T05:56:00Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": true,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "Naija Happy Hour",
+            "facebook_event_id": null,
+            "logo_id": "721334909",
+            "organizer_id": "17919316271",
+            "venue_id": "68643099",
+            "category_id": "103",
+            "subcategory_id": "3005",
+            "format_id": "11",
+            "id": "865227908967",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/865227908967/",
+            "is_externally_ticketed": false,
+            "series_id": "194903510647",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 64
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F721334909%2F146817513545%2F1%2Foriginal.20240317-044640?auto=format%2Ccompress&q=75&sharp=10&s=8437943ef6a13224c2ea7b0f6b7f494b",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "721334909",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F721334909%2F146817513545%2F1%2Foriginal.20240317-044640?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C64%2C1080%2C540&s=603556ce42e685ec4f367a0f2138d573",
+                "aspect_ratio": "2",
+                "edge_color": "#4d744c",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Let's Smoke and Joke",
+                "html": "Let&#39;s Smoke and Joke"
+            },
+            "description": {
+                "text": "Get ready to chill out, share some laughs, and enjoy good vibes at Let's Smoke and Joke - a night of relaxation and comedy!",
+                "html": "Get ready to chill out, share some laughs, and enjoy good vibes at Let's Smoke and Joke - a night of relaxation and comedy!"
+            },
+            "url": "https://www.eventbrite.com/e/lets-smoke-and-joke-tickets-872691091547",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-20T20:00:00",
+                "utc": "2024-04-21T00:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-21T00:00:00",
+                "utc": "2024-04-21T04:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-27T15:57:09Z",
+            "changed": "2024-03-27T16:18:07Z",
+            "published": "2024-03-27T15:58:23Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": false,
+            "version": null,
+            "summary": "Get ready to chill out, share some laughs, and enjoy good vibes at Let's Smoke and Joke - a night of relaxation and comedy!",
+            "facebook_event_id": null,
+            "logo_id": "729252849",
+            "organizer_id": "17919316271",
+            "venue_id": "204368659",
+            "category_id": "110",
+            "subcategory_id": "10999",
+            "format_id": "11",
+            "id": "872691091547",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/872691091547/",
+            "is_externally_ticketed": false,
+            "series_id": "867203086777",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2104,
+                    "height": 1052
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F729252849%2F146817513545%2F1%2Foriginal.20240327-051229?auto=format%2Ccompress&q=75&sharp=10&s=7a5ee754bae73eeeabc9ea39c0a8a1a9",
+                    "width": 2104,
+                    "height": 2600
+                },
+                "id": "729252849",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F729252849%2F146817513545%2F1%2Foriginal.20240327-051229?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2104%2C1052&s=bfa64e5702787883c537416a3b83cbb8",
+                "aspect_ratio": "2",
+                "edge_color": "#292a26",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "28.52",
+                    "value": 2852,
+                    "display": "28.52 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "28.52",
+                    "value": 2852,
+                    "display": "28.52 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "AFROBEATS NIGHTS NYC",
+                "html": "AFROBEATS NIGHTS NYC"
+            },
+            "description": {
+                "text": "Get ready to groove to the infectious beats of Afrobeats.",
+                "html": "Get ready to groove to the infectious beats of Afrobeats."
+            },
+            "url": "https://www.eventbrite.com/e/afrobeats-nights-nyc-tickets-870538803997",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-20T21:00:00",
+                "utc": "2024-04-21T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-21T02:00:00",
+                "utc": "2024-04-21T06:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-24T16:37:30Z",
+            "changed": "2024-03-26T02:10:48Z",
+            "published": "2019-05-08T05:19:25Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 600,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "create_2.0",
+            "is_free": false,
+            "version": null,
+            "summary": "Get ready to groove to the infectious beats of Afrobeats.",
+            "facebook_event_id": null,
+            "logo_id": "715790069",
+            "organizer_id": "17919316271",
+            "venue_id": "39349749",
+            "category_id": "103",
+            "subcategory_id": "3999",
+            "format_id": "11",
+            "id": "870538803997",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/870538803997/",
+            "is_externally_ticketed": false,
+            "series_id": "61556659626",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 37
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F715790069%2F146817513545%2F1%2Foriginal.20240310-050139?auto=format%2Ccompress&q=75&sharp=10&s=c97d7ad7d79ec8a2ce96eee2c6a00d01",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "715790069",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F715790069%2F146817513545%2F1%2Foriginal.20240310-050139?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C37%2C1080%2C540&s=5001ba04b8ce1c082b9507da3297095d",
+                "aspect_ratio": "2",
+                "edge_color": "#115f62",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.85",
+                    "value": 2285,
+                    "display": "22.85 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "22.85",
+                    "value": 2285,
+                    "display": "22.85 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Taco Thursdays",
+                "html": "Taco Thursdays"
+            },
+            "description": {
+                "text": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+                "html": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss"
+            },
+            "url": "https://www.eventbrite.com/e/taco-thursdays-tickets-860288565257",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-04-25T21:00:00",
+                "utc": "2024-04-26T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-04-26T03:00:00",
+                "utc": "2024-04-26T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-10T05:08:49Z",
+            "changed": "2024-03-25T22:52:52Z",
+            "published": "2023-12-26T22:22:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": true,
+            "version": null,
+            "summary": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+            "facebook_event_id": null,
+            "logo_id": "686459239",
+            "organizer_id": "17919316271",
+            "venue_id": "189564459",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "11",
+            "id": "860288565257",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/860288565257/",
+            "is_externally_ticketed": false,
+            "series_id": "783571021017",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?auto=format%2Ccompress&q=75&sharp=10&s=2e9299be46fe1c19778dad57f8cd0ccf",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "686459239",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=14ec70d042dd331b67ea63bcd91ae229",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Taco Thursdays",
+                "html": "Taco Thursdays"
+            },
+            "description": {
+                "text": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+                "html": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss"
+            },
+            "url": "https://www.eventbrite.com/e/taco-thursdays-tickets-860288575287",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-02T21:00:00",
+                "utc": "2024-05-03T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-03T03:00:00",
+                "utc": "2024-05-03T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-10T05:08:49Z",
+            "changed": "2024-03-25T22:52:52Z",
+            "published": "2023-12-26T22:22:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": true,
+            "version": null,
+            "summary": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+            "facebook_event_id": null,
+            "logo_id": "686459239",
+            "organizer_id": "17919316271",
+            "venue_id": "189564459",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "11",
+            "id": "860288575287",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/860288575287/",
+            "is_externally_ticketed": false,
+            "series_id": "783571021017",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?auto=format%2Ccompress&q=75&sharp=10&s=2e9299be46fe1c19778dad57f8cd0ccf",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "686459239",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=14ec70d042dd331b67ea63bcd91ae229",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Taco Thursdays",
+                "html": "Taco Thursdays"
+            },
+            "description": {
+                "text": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+                "html": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss"
+            },
+            "url": "https://www.eventbrite.com/e/taco-thursdays-tickets-860288585317",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-09T21:00:00",
+                "utc": "2024-05-10T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-10T03:00:00",
+                "utc": "2024-05-10T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-10T05:08:49Z",
+            "changed": "2024-03-25T22:52:52Z",
+            "published": "2023-12-26T22:22:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": true,
+            "version": null,
+            "summary": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+            "facebook_event_id": null,
+            "logo_id": "686459239",
+            "organizer_id": "17919316271",
+            "venue_id": "189564459",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "11",
+            "id": "860288585317",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/860288585317/",
+            "is_externally_ticketed": false,
+            "series_id": "783571021017",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?auto=format%2Ccompress&q=75&sharp=10&s=2e9299be46fe1c19778dad57f8cd0ccf",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "686459239",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=14ec70d042dd331b67ea63bcd91ae229",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "Taco Thursdays",
+                "html": "Taco Thursdays"
+            },
+            "description": {
+                "text": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+                "html": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss"
+            },
+            "url": "https://www.eventbrite.com/e/taco-thursdays-tickets-860288595347",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-05-16T21:00:00",
+                "utc": "2024-05-17T01:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-05-17T03:00:00",
+                "utc": "2024-05-17T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2024-03-10T05:08:49Z",
+            "changed": "2024-03-25T22:52:52Z",
+            "published": "2023-12-26T22:22:39Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "auto_create",
+            "is_free": true,
+            "version": null,
+            "summary": "Come join us for a mouthwatering fiesta every Tuesday and Thursday, where we'll be serving up the most delicious tacos in town – don't miss",
+            "facebook_event_id": null,
+            "logo_id": "686459239",
+            "organizer_id": "17919316271",
+            "venue_id": "189564459",
+            "category_id": "110",
+            "subcategory_id": "10003",
+            "format_id": "11",
+            "id": "860288595347",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/860288595347/",
+            "is_externally_ticketed": false,
+            "series_id": "783571021017",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?auto=format%2Ccompress&q=75&sharp=10&s=2e9299be46fe1c19778dad57f8cd0ccf",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "686459239",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F686459239%2F146817513545%2F1%2Foriginal.20240131-044415?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=14ec70d042dd331b67ea63bcd91ae229",
+                "aspect_ratio": "2",
+                "edge_color": "#000000",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": false,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        },
+        {
+            "name": {
+                "text": "QUEER HAPPY HOUR",
+                "html": "QUEER HAPPY HOUR"
+            },
+            "description": {
+                "text": "PRIDE HAPPY HOUR",
+                "html": "PRIDE HAPPY HOUR"
+            },
+            "url": "https://www.eventbrite.com/e/queer-happy-hour-tickets-761515422127",
+            "start": {
+                "timezone": "America/New_York",
+                "local": "2024-11-08T21:00:00",
+                "utc": "2024-11-09T02:00:00Z"
+            },
+            "end": {
+                "timezone": "America/New_York",
+                "local": "2024-11-09T02:00:00",
+                "utc": "2024-11-09T07:00:00Z"
+            },
+            "organization_id": "6169046141",
+            "created": "2023-11-18T08:22:09Z",
+            "changed": "2024-02-26T21:55:41Z",
+            "published": "2022-06-10T01:18:35Z",
+            "capacity": null,
+            "capacity_is_custom": null,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": true,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": true,
+            "version": null,
+            "summary": "PRIDE HAPPY HOUR",
+            "facebook_event_id": null,
+            "logo_id": "678551199",
+            "organizer_id": "17919316271",
+            "venue_id": "101036579",
+            "category_id": "103",
+            "subcategory_id": null,
+            "format_id": "11",
+            "id": "761515422127",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/761515422127/",
+            "is_externally_ticketed": false,
+            "series_id": "362717466707",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 92
+                    },
+                    "width": 1080,
+                    "height": 540
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F678551199%2F146817513545%2F1%2Foriginal.20240119-204255?auto=format%2Ccompress&q=75&sharp=10&s=7b20c7a48c81b30f8a1dc75828e15515",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "id": "678551199",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F678551199%2F146817513545%2F1%2Foriginal.20240119-204255?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C92%2C1080%2C540&s=b336327d7914fcf4e26fe728b68258dd",
+                "aspect_ratio": "2",
+                "edge_color": "#689b66",
+                "edge_color_set": true
+            },
+            "ticket_availability": {
+                "has_available_tickets": false,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "is_sold_out": true,
+                "start_sales_date": null,
+                "waitlist_available": false
+            }
+        }
+    ]
+}
